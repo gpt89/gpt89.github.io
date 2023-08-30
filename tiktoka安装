@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>点击下载示例</title>
+</head>
+<body>
+    <h1>点击下载示例</h1>
+    <p>点击下面的按钮下载文件：</p>
+    <a href="https://example.com/your-file.pdf" download>
+        <button>下载文件</button>
+    </a>
+</body>
+</html>
